@@ -23,20 +23,20 @@ United Airlines is currently conducting research and analysis to understand its 
 <h2>Program Walk-Through:</h2>
 
 <p align="center">
-Age Distribution: <br/>
-<img src="https://i.imgur.com/fPFH8EE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dashboard: <br/>
+<img src="https://i.imgur.com/nvehG6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Gender Comparison:  <br/>
-<img src="https://i.imgur.com/wAEtJRN.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Infographic:  <br/>
+<img src="https://i.imgur.com/cX8vUT9.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Body Mass Index Distribution: <br/>
-<img src="https://i.imgur.com/JSCaLo5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Blog Post: <br/>
+<img src="https://i.imgur.com/vJvZGQm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Modeling:  <br/>
-<img src="https://i.imgur.com/1scAuOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+PowerPoint:  <br/>
+<img src="https://i.imgur.com/Ch4OdZH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
