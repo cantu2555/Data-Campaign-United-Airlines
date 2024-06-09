@@ -3,9 +3,8 @@
  
 
 <h2>Description</h2>
-Welcome to our Diabetes Prediction Project – a initiative poised to optimize healthcare analytics. Our project encompasses a wide array of health indicators, from age and gender to critical markers like BMI, hypertension, and heart disease status. We delve into smoking history, HbA1c levels, and blood glucose data to offer a comprehensive view of patients' health profiles.
+United Airlines is currently conducting research and analysis to understand its overall safety measures and financial performance over the years. This campaign is designed to disseminate crucial information to both internal teams and the public about the current state of affairs concerning safety and financial matters at United Airlines. Our proactive approach ensures transparent and accurate communication with the public, instilling confidence and trust in our operations.
 
-Our goal is crystal clear: to empower healthcare professionals in identifying individuals at risk of diabetes, enabling the development of personalized treatment plans. By leveraging advanced predictive modeling techniques, we aim to proactively intervene in the progression of diabetes, ultimately contributing to better patient outcomes.
 
 <br />
 
@@ -14,12 +13,14 @@ Our goal is crystal clear: to empower healthcare professionals in identifying in
 
 - <b>Python</b> 
 - <b>Jupyter Lab</b>
+- <b>PowerBI</b>
+- <b>Canva</b>
 
 <h2>Environments Used </h2>
 
 - <b>Mac OS, Anaconda </b> 
 
-<h2>Program walk-through:</h2>
+<h2>Program Walk-Through:</h2>
 
 <p align="center">
 Age Distribution: <br/>
